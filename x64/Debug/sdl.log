@@ -1,0 +1,9 @@
+﻿  sdl.cpp
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(1017,47): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(1262,51): warning C4477: „sprintf_s”: ciąg formatu „%ld” wymaga argumentu typu „long”, ale argument 1 ze zmienną liczbą argumentów ma typ „time_t”
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(1262,51): message : rozważ użycie elementu „%lld” w ciągu formatu
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(1262,51): message : rozważ użycie elementu „%Id” w ciągu formatu
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(1262,51): message : rozważ użycie elementu „%I64d” w ciągu formatu
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(62): warning C4715: "zapis”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\mlody\Desktop\studia\saper\sdl\sdl.cpp(136): warning C4715: "wyniki”: niewszystkie ścieżki kodu zwracają wartość
+  sdl.vcxproj -> C:\Users\mlody\Desktop\studia\saper\sdl\x64\Debug\sdl.exe

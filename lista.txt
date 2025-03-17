@@ -1,0 +1,5 @@
+latwo Sekundy: 14
+siema Sekundy: 17
+ELO Sekundy: 20
+oczywiscie Sekundy: 35
+
